@@ -8,7 +8,7 @@
 | 2   | [What is laptop](#what-is-what-is-laptop)                      |
 | 2   | [What is programming](#what-is-programming)                    |
 
-1. ### how many sector in a company
+### 1. how many sector in a company
 
    There are many sectors in a company.
 
@@ -45,13 +45,13 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-2. ### What is laptop
+### 2. What is laptop
 
    hello laptop is a machine that can be used everywhere .
 
    **[⬆ Back to Top](#table-of-contents)**
 
-3. ### what is programming
+### 3. what is programming
 
    programming is a art
 
